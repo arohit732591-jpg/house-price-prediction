@@ -196,7 +196,7 @@ This provides a practical way to identify properties that may offer better value
 ```text
 house-price-prediction/
 │
-├── House_Price.ipynb.ipynb
+├── House_Price.ipynb
 ├── data.csv
 ├── README.md
 └── requirements.txt
