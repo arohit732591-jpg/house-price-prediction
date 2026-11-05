@@ -210,6 +210,7 @@ house-price-prediction/
 3. Install the required Python libraries:
    ```bash
    pip install -r requirements.txt
+   ```
 4. Make sure `data.csv` is in the same folder as the notebook.
 5. Open `House_Price.ipynb` and execute the notebook cells in order.
 
